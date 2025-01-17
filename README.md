@@ -10,6 +10,14 @@
 - 🧠 Mindset: I’m a strong believer in the “learn by doing” philosophy and am constantly building personal projects to improve my skills.
 - 💥 Next Goals: Mastering full-stack development, building scalable systems, and contributing to open-source projects.
 
+
+#Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adarshvishwakarmaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=roshansharmaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dark&hide_border=true" height="150" alt="languages graph"  />
+</div>
+
+
 ### Connect with me:
 <div id="badges">
   <a href="https://github.com/adarshvishwakarmaa">
