@@ -1,3 +1,10 @@
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/58109796/233058941-9dd6c50a-a5ea-45fd-b788-c3bb8e00bffe.gif" alt="MasterHead" style="width: 100%; height: 20rem;">
+</div>
+
+
+
+
 <h1 align="center">Hi 👋, I'm Adarsh Vishwakarma</h1>
 <p align="center">Aspiring MERN-Stack Developer | Lifelong Learner | Passionate Coder</p>
 
@@ -31,7 +38,7 @@
   <a href="https://www.instagram.com/adarshvishwakarma923">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram Badge"/>
   </a>
-   <a href="https://www.linkedin.com/in/adarsh-vishwakarma-a055a1317/">
+  <a href="https://www.linkedin.com/in/adarshvishwakarmaa/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:adarshvishwakarma2004@gmail.com">
@@ -65,3 +72,18 @@
 <div align="center">
   <h3>⭐️ From <a href="https://github.com/adarshvishwakarmaa">Adarsh Vishwakarma</a></h3>
 </div>
+
+
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/adarshvishwakarmaa/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="250" src="https://roshan-sharmaa.netlify.app/Photos/image.png"  />
+</div>
+
