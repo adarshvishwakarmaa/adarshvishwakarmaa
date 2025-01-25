@@ -44,7 +44,7 @@
   <a href="https://www.instagram.com/adarshvishwakarma923">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/adarshvishwakarmaa/">
+  <a href="https://www.linkedin.com/in/adarsh-vishwakarma-a055a1317/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:adarshvishwakarma2004@gmail.com">
