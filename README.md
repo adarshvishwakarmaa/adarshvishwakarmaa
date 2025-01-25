@@ -12,13 +12,19 @@
 
 ### 🚀 About Me:
 - 🔭 I’m currently working on **Youtube Clone**
+  
 - 🌱 I’m currently learning **React, Node.js, Express.js, MongoDB**
+  
 - 💬 Ask me anything about **React**
+  
 - 📫 How to reach me: **adarshvishwakarma@gmail.com**
+  
 - 😄 My website: [**Adarsh**](https://crypto-places.netlify.app/)
-- ⚡ Fun fact: **I'm coming to my teens**
+  
 - 🛠️ Toolbox: Proficient in **Git, VSCode, Postman**, and always learning new tools to streamline my workflow.
+  
 - 🧠 Mindset: Strong believer in the "learn by doing" philosophy, constantly building personal projects to improve my skills.
+  
 - 💥 Next Goals: Mastering **full-stack development**, building scalable systems, and contributing to open-source projects.
 
 ---
