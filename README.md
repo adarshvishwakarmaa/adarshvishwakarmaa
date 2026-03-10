@@ -1,114 +1,163 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/58109796/233058941-9dd6c50a-a5ea-45fd-b788-c3bb8e00bffe.gif" alt="MasterHead" style="width: 100%; height: 20rem;">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Adarsh%20Vishwakarma&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+
 </div>
 
-
-
-
-<h1 align="center">Hi 👋, I'm Adarsh Vishwakarma</h1>
-<p align="center">Aspiring MERN-Stack Developer | Lifelong Learner | Passionate Coder</p>
-
----
-
-### 🚀 About Me:
-- 🔭 I’m currently working on **Airbnb_Clone**
-  
-- 🌱 I’m currently learning **React, Node.js, Express.js, MongoDB**
-  
-- 💬 Ask me anything about **React**
-  
-- 📫 How to reach me: **adarshvishwakarma@gmail.com**
-  
-- 😄 My website: [**Adarsh**](https://crypto-places.netlify.app/)
-  
-- 🛠️ Toolbox: Proficient in **Git, VSCode, Postman**, and always learning new tools to streamline my workflow.
-  
-- 🧠 Mindset: Strong believer in the "learn by doing" philosophy, constantly building personal projects to improve my skills.
-  
-- 💥 Next Goals: Mastering **full-stack development**, building scalable systems, and contributing to open-source projects.
-
----
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adarshvishwakarmaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshvishwakarmaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dark&hide_border=true" height="150" alt="languages graph"  />
+
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+Developer;.NET+Developer;Always+Learning+New+Things;Building+Scalable+Applications&center=true&width=500&height=45">
+
 </div>
 
 ---
 
-### 🌐 Connect With Me:
-<div id="badges" align="center">
-  <a href="https://github.com/adarshvishwakarmaa">
-    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white" height="35" alt="Github Badge"/>
-  </a>
-  <a href="https://www.instagram.com/adarshvishwakarma923">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/adarsh-vishwakarma-a055a1317/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:adarshvishwakarma2004@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail Badge"/>
-  </a>
+# 👨‍💻 About Me
+
+💻 **Full Stack Developer**
+
+🚀 Passionate about building **modern scalable web applications**
+
+📚 Currently learning **Advanced Full Stack Development**
+
+🎯 Goal: Become a **top software engineer**
+
+* 🔭 Currently working on **Full Stack Projects**
+* 🌱 Learning **React, .NET, Node.js, MongoDB**
+* 💬 Ask me about **React, JavaScript, .NET**
+* 📫 Email: **[adarshvishwakarma2004@gmail.com](mailto:adarshvishwakarma2004@gmail.com)**
+
+---
+
+# 🧰 Tech Stack
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=js,cs,html,css" />
+
+### ⚡ Frameworks
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,dotnet,bootstrap" />
+
+### 🗄 Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+### 🛠 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman" />
+
+---
+
+# 📊 Dynamic GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=adarshvishwakarmaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshvishwakarmaa&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 ---
 
-### 🛠️ Languages and Tools:
+# 📈 GitHub Activity Graph (Dynamic)
+
 <div align="center">
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo" />
-  <img width="15" />
 
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET Core logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" />
-  <img width="15" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adarshvishwakarmaa&theme=tokyo-night&hide_border=true"/>
 
-  <!-- Database -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server logo" />
-  <img width="15" />
+</div>
 
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" height="40" alt="Visual Studio logo" />
-  <img width="15" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman logo" />
+---
+
+# 🏆 GitHub Achievements
+
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=adarshvishwakarmaa&theme=tokyonight&no-frame=true&column=6"/>
+
+</div>
+
+---
+
+# 📂 Dynamic Repository Stats
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adarshvishwakarmaa&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adarshvishwakarmaa&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adarshvishwakarmaa&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/adarshvishwakarmaa">
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
+
+<a href="https://www.linkedin.com/in/adarsh-vishwakarma-a055a1317/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="mailto:adarshvishwakarma2004@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+
+<a href="https://www.instagram.com/adarshvishwakarma923">
+<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+</a>
+
+</div>
+
+---
+
+# 👀 Profile Metrics (Auto Update)
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=adarshvishwakarmaa&label=Profile%20Views&color=blue&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/adarshvishwakarmaa?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/adarshvishwakarmaa?affiliations=OWNER&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 💬 Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+
 </div>
 
 ---
 
 <div align="center">
-  <h3>⭐️ From <a href="https://github.com/adarshvishwakarmaa">Adarsh Vishwakarma</a></h3>
+
+⭐ **If you like my work, please star my repositories!**
+
 </div>
 
-
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/adarshvishwakarmaa/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="250" src="https://roshan-sharmaa.netlify.app/Photos/image.png"  />
-</div>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=120&section=footer"/>
