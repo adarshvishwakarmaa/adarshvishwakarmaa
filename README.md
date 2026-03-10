@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Adarsh%20Vishwakarma&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Adarsh%20Vishwakarma&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+Developer;.NET+Developer;Always+Learning+New+Things;Building+Scalable+Applications&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+.NET+Developer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 💻 **Full Stack Developer**
 
@@ -20,12 +20,12 @@
 
 📚 Currently learning **Advanced Full Stack Development**
 
-🎯 Goal: Become a **top software engineer**
+🎯 Goal: Become a **Top Software Engineer**
 
 * 🔭 Currently working on **Full Stack Projects**
 * 🌱 Learning **React, .NET, Node.js, MongoDB**
 * 💬 Ask me about **React, JavaScript, .NET**
-* 📫 Email: **[adarshvishwakarma2004@gmail.com](mailto:adarshvishwakarma2004@gmail.com)**
+* 📫 Reach me: **[adarshvishwakarma2004@gmail.com](mailto:adarshvishwakarma2004@gmail.com)**
 
 ---
 
@@ -49,7 +49,7 @@
 
 ---
 
-# 📊 Dynamic GitHub Stats
+# 📊 GitHub Statistics
 
 <div align="center">
 
@@ -61,7 +61,7 @@
 
 ---
 
-# 📈 GitHub Activity Graph (Dynamic)
+# 📈 GitHub Activity Graph
 
 <div align="center">
 
@@ -73,10 +73,9 @@
 
 # 🏆 GitHub Achievements
 
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=adarshvishwakarmaa&theme=tokyonight&no-frame=true&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=adarshvishwakarmaa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6"/>
 
 </div>
 
@@ -120,7 +119,7 @@
 
 ---
 
-# 👀 Profile Metrics (Auto Update)
+# 👀 Profile Metrics
 
 <div align="center">
 
@@ -148,7 +147,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 
 </div>
 
@@ -160,4 +159,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer"/>
